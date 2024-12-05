@@ -233,6 +233,5 @@ Details of each question in a quiz.
 - **Completion Certificates**: Issue certificates upon course completion.
 - **Content Preview**: Allow users to preview specific lessons before enrollment.
 
-Here’s the **API Design** with detailed methods for the **Course Management System**:
 
 
